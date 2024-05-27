@@ -1,0 +1,4 @@
+langchain
+load_dotenv
+streamlit
+langchain-openai
